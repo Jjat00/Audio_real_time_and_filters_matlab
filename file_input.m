@@ -2,7 +2,7 @@
 %       ||      || ||  ||   ||
 %       ||      || ||||||   ||
 %    |||||   ||||| ||  ||   ||
-%  Author: Jaime Jjat 
+%  Authors: Jaime Jjat and Cristian Espinosa
 %  Date: marzo de 2019
 %  e-mail: userjjat00@gmail.edu.co 
 %  Youtube: https://www.youtube.com/channel/UC_SdV1G11_uYdfCDWrbLVWg/videos?view_as=subscriber
