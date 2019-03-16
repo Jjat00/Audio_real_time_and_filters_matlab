@@ -1,0 +1,6 @@
+function [y,A,B]=getIIR(x,A,B)
+B(2,1:end)=[x,B(1,1:end-1)];
+y1=sum(A(1,2:end).*A(1,1:end-1),2)/A(1);
+x1=sum(B(1,1:end).*B(1,1:end),2)/A(1);
+y=-y1+x1;
+A(2,1:end)=[y,A(2,1:end-1)];
